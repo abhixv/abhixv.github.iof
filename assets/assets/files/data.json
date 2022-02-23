@@ -4,9 +4,9 @@
             "id": 1,
             "name": "SaferDev - Device Information & SafetyNet Status Checker",
             "description": "SaferDev is a hardware and software information app & SafetyNet compatibility status checker app for Android devices.",
-            "changelog": " -  Fresh design inspired by Android 12 wallpaper theming also supports dark & light theming.",
+            "changelog": " - Fresh design inspired by Android 12 wallpaper theming also supports dark & light theming.",
             "download_link": "https://play.google.com/store/apps/details?id=com.abhixv.saferdev",
-            "android_version": 1,
+            "android_version": 11,
             "image_url": "https://play-lh.googleusercontent.com/Fgka7O7z3AcXRFzZy2neSc3GP2k2Z9Hto7qpGxnySMx8kxo8pZmQJTufXxsP1ykHDw=s180-rw",
             "date": "2021-12-09",
             "size": 6.43
@@ -28,7 +28,7 @@
             "description": "Redmi Note 8 pro (begonia)",
             "changelog": " - 5.2 Update based on Lineage 18.1. - September Security Patch. - SElinux Enforcing. - Enable VNDK runtime isolation. - Update kernel from begonia-r-oss. - Kernel upstream from to 4.14.246. - Inlined kernel modules. - Update firmware begonia V12.5.3.0.RGGMIXM. - Update audio configs from begonia V12.5.1.0.RGGMIXM. - Update blobs from begonia V12.5.3.0.RGGMIXM. - Update media configs from begonia V12.5.1.0.RGGMXM - Update seccomp configs from begonia V12.5.1.0.RGGMIXM. - Update public.libraries from begonia V12.5.1.0.RGGMIXM. - Update permissions from begonia V12.5.1.0.RGGMIXM. - Update rootdir from begonia V12.5.1.0.RGGMIXM. - Update dtbo certs from begonia V12.5.1.0.RGGMIXM. - Update properties from begonia V12.5.1.0.RGGMIXM. - Turn on BOARD_USES_METADATA_PARTITION. - Enforce RRO for all resource overlays.",
             "download_link": "https://sourceforge.net/projects/projectsakura/files/begonia/ProjectSakura-5.2-GAPPS-Basic-20210923-2016-begonia-OFFICIAL.zip/download",
-            "android_version": 12,
+            "android_version": 11,
             "image_url": "https://github.com/ProjectSakura/SakuraDocs/raw/master/assets/header.png?raw=true",
             "date": "2021-09-24",
             "size": 1240.0
@@ -37,20 +37,9 @@
             "id": 4,
             "name": " HyconOS_4.5.1_begonia-11.0-20210926-0432-OFFICIAL.zip",
             "description": "Redmi Note 8 pro (begonia)",
-            "changelog": "- September Security Patch. - FW Included. - SElinux Enforcing. - Safety Net passed by default. - Enable VNDK runtime isolation. - Update kernel from begonia-r-oss. - Kernel upstream from to 4.14.246. - Inlined kernel modules. - begonia: overlay: Update brightness values from redfin. - Fixed Night Light Flickering. - Update firmware begonia V12.5.3.0.RGGMIXM. - Update audio configs from begonia V12.5.1.0.RGGMIXM. - Update blobs from begonia V12.5.3.0.RGGMIXM. - Update media configs from begonia V12.5.1.0.RGGMXM. - Update seccomp configs from begonia V12.5.1.0.RGGMIXM. - Update public.libraries from begonia V12.5.1.0.RGGMIXM. - Update permissions from begonia V12.5.1.0.RGGMIXM. - Update rootdir from begonia V12.5.1.0.RGGMIXM. - Update dtbo certs from begonia V12.5.1.0.RGGMIXM. - Update properties from begonia V12.5.1.0.RGGMIXM. - Turn on BOARD_USES_METADATA_PARTITION. - Enforce RRO for all resource over. ",
+            "changelog": " - September Security Patch. - FW Included. - SElinux Enforcing. - Safety Net passed by default. - Enable VNDK runtime isolation. - Update kernel from begonia-r-oss. - Kernel upstream from to 4.14.246. - Inlined kernel modules. - begonia: overlay: Update brightness values from redfin. - Fixed Night Light Flickering. - Update firmware begonia V12.5.3.0.RGGMIXM. - Update audio configs from begonia V12.5.1.0.RGGMIXM. - Update blobs from begonia V12.5.3.0.RGGMIXM. - Update media configs from begonia V12.5.1.0.RGGMXM. - Update seccomp configs from begonia V12.5.1.0.RGGMIXM. - Update public.libraries from begonia V12.5.1.0.RGGMIXM. - Update permissions from begonia V12.5.1.0.RGGMIXM. - Update rootdir from begonia V12.5.1.0.RGGMIXM. - Update dtbo certs from begonia V12.5.1.0.RGGMIXM. - Update properties from begonia V12.5.1.0.RGGMIXM. - Turn on BOARD_USES_METADATA_PARTITION. - Enforce RRO for all resource over. ",
             "download_link": "https://github.com/HyconOS-Releases/begonia/releases/download/V4.5.1/HyconOS_4.5.1_begonia-11.0-20210926-0432-OFFICIAL.zip",
-            "android_version": 12,
-            "image_url": "https://github.com/Introdructor/images/raw/main/20210607_173402.png",
-            "date": "2021-09-26",
-            "size": 1570.0
-        },
-        {
-            "id": 4,
-            "name": " HyconOS_4.5.1_begonia-11.0-20210926-0432-OFFICIAL.zip",
-            "description": "Redmi Note 8 pro (begonia)",
-            "changelog": "- September Security Patch. - FW Included. - SElinux Enforcing. - Safety Net passed by default. - Enable VNDK runtime isolation. - Update kernel from begonia-r-oss. - Kernel upstream from to 4.14.246. - Inlined kernel modules. - begonia: overlay: Update brightness values from redfin. - Fixed Night Light Flickering. - Update firmware begonia V12.5.3.0.RGGMIXM. - Update audio configs from begonia V12.5.1.0.RGGMIXM. - Update blobs from begonia V12.5.3.0.RGGMIXM. - Update media configs from begonia V12.5.1.0.RGGMXM. - Update seccomp configs from begonia V12.5.1.0.RGGMIXM. - Update public.libraries from begonia V12.5.1.0.RGGMIXM. - Update permissions from begonia V12.5.1.0.RGGMIXM. - Update rootdir from begonia V12.5.1.0.RGGMIXM. - Update dtbo certs from begonia V12.5.1.0.RGGMIXM. - Update properties from begonia V12.5.1.0.RGGMIXM. - Turn on BOARD_USES_METADATA_PARTITION. - Enforce RRO for all resource over. ",
-            "download_link": "https://github.com/HyconOS-Releases/begonia/releases/download/V4.5.1/HyconOS_4.5.1_begonia-11.0-20210926-0432-OFFICIAL.zip",
-            "android_version": 12,
+            "android_version": 11,
             "image_url": "https://github.com/Introdructor/images/raw/main/20210607_173402.png",
             "date": "2021-09-26",
             "size": 1570.0
